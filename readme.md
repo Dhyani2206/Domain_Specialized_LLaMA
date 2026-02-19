@@ -1,7 +1,7 @@
 # Curated Knowledge, Better Models  
 ## Fine-Tuning LLaMA for Expert Data Science Reasoning
 
-### verview
+### Overview
 This project explores whether carefully curated, domain-specific datasets can improve reasoning quality in Large Language Models.
 
 We fine-tune:
