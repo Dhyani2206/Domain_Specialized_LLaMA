@@ -1,0 +1,15 @@
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+evaluate
+scikit-learn
+sentence-transformers
+bert-score
+rouge-score
+numpy
+pandas
+tqdm
+matplotlib
